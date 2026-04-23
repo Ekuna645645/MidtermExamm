@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MidtermExam</string>
+    <string name="es_li_income_hint">Income</string>
+    <string name="es_li_expenses_hint">Expenses</string>
+    <string name="es_li_save_button">Save</string>
+    <string name="es_li_analytics_title">Financial Analytics</string>
+    <string name="es_li_result_placeholder">Final Savings will appear here</string>
+    <string name="es_li_profile_name">Ekaterine Somkhishvili</string>
+    <string name="es_li_profile_info">Android Developer Portfolio</string>
+    <string name="es_li_tab_input">Input</string>
+    <string name="es_li_tab_analytics">Analytics</string>
+    <string name="es_li_tab_profile">Profile</string>
+    <string name="es_li_result_format">Final Savings: $%.2f</string>
+</resources>
